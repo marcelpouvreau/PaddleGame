@@ -1,10 +1,10 @@
 # PaddleGame
 
-# A Paddle Game made with JS
+ A Paddle Game made with JS
 
-# Can be played with multiplayer or aganist the machine.
+ Can be played with multiplayer or aganist the machine.
 
 
-# Enjoy
+ Enjoy
 
-# Credits https://www.alura.com.br/
+ Credits https://www.alura.com.br/
